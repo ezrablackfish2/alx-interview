@@ -1,2 +1,3 @@
-# alx-interview
-this is an alx interview
+# Alx-interview
+Interview preparation questions
+
